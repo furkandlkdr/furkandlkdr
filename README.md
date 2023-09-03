@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
