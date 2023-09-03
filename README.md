@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Javascript & Vue.js<br>🎯 Goals: Knowing all the basic steps of full-stack dev and getting to know myself better<br>🎲 Fun fact: I used to code with Minecraft command blocks.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Javascript & Vue.js<br>🎯 Goals: Knowing all the basic steps of full-stack dev and getting to know myself better<br>🎲 Fun fact: I used to code with Minecraft command blocks</p>
 
 ###
 
