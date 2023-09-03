@@ -40,7 +40,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![Snake Animation](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake Animation](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ###
