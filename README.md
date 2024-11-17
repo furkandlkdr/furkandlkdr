@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Furkan and I'm a Software Engineering Student from Kayseri, Turkey.</h3>
+<h3 align="left">My name is Furkan and I'm a Software Engineering Student from Turkiye.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React, ML and Go <br>🎯 Goals: Knowing all the basic steps of full-stack dev and getting to know myself better<br>🎲 Fun fact: I used to code with Minecraft command blocks</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ML and AI Models <br>🎯 My Goal: Knowing all the steps of full-stack dev and getting to know myself better<br>🎲 Fun fact: I used to code with Minecraft command blocks</p>
 
 ###
 
@@ -76,6 +76,7 @@
   <a href="https://go.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
   </a>
+  <img width="12" />
   
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
