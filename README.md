@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ML and AI Models <br>🎯 My Goal: Knowing all the steps of full-stack dev and getting to know myself better<br>🎲 Fun fact: I used to code with Minecraft command blocks</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning .NET and PHP <br>🎯 My Goal: Knowing all the steps of full-stack dev and getting to know myself better<br>🎲 Fun fact: I used to code with Minecraft command blocks</p>
 
 ###
 
