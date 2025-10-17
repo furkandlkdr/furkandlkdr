@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Furkan and I'm a Software Engineering Student from Turkiye.</h3>
+<h3 align="left">My name is Furkan and I'm a Software Engineering Student & Full Stack Dev. from Turkiye.</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 <p align="left">
   ✨ Creating bugs since 2021<br>
-  📚 I'm currently learning Machine Learning <br>
+  📚 I'm currently learning Machine Learning and Bioinformatics. <br>
   🎯 My Goal: Knowing all the steps of full-stack dev and getting to know myself better<br>
   🎲 Fun fact: I used to code with Minecraft command blocks</p>
 
