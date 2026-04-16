@@ -1,106 +1,75 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi there, I'm Furkan Dulkadir 👋</h1>
 
-###
+<p align="center">
+  <strong>Senior Software Engineering Student | Full-Stack Developer | AI-Augmented Engineer</strong>
+</p>
 
-<h3 align="left">My name is Furkan and I'm a Software Engineering Student & Full Stack Dev. from Turkiye.</h3>
+<p align="center">
+  <em>"Leveraging AI tools as a force multiplier to transform ambitious software dreams into production-ready reality."</em>
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/furkandulkadir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:info@furkan.software">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=furkandlkdr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="furkandlkdr" />
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+### 🚀 Professional Profile
+
+- 🎓 **Senior Software Engineering Student** with a focus on building scalable web ecosystems and robust software architectures.
+- 🤖 **AI-Driven Workflow:** I actively integrate LLMs and advanced AI tools into my development cycle to accelerate prototyping, ensure code quality, and solve complex architectural challenges.
+- 💼 **Industry Experience:** Proven track record through internships at **Turkcell (GNÇYTNK)** and various professional environments, focusing on modern frontend frameworks and business-driven logic.
+- 🧠 **Current Research & Projects:** - Actively researching **Cybersecurity** and **Deep Learning** applications.
+    - Developing a project analyzing the correlation between **stress and stuttering** through bio-signal analysis.
+    - Working on **medical imaging** and managing several background projects in parallel.
+- 🐧 **Linux Power User:** I manage most of my daily workflow and home server infrastructure primarily through **Linux-kernel-based systems**.
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+<table>
+  <tr>
+    <td align="left" width="50%">
+      <strong>Frontend & Mobile</strong><br>
+      <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,ts" />
+    </td>
+    <td align="left" width="50%">
+      <strong>Backend & Infrastructure</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,go,cs,mysql,postgresql,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <strong>AI & Machine Learning</strong><br>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    </td>
+    <td align="left" width="50%">
+      <strong>Environment & Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=linux,raspberrypi,docker,git,bash" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="left">
-  ✨ Creating bugs since 2021<br>
-  📚 I'm currently learning Machine Learning and Bioinformatics. <br>
-  🎯 My Goal: Knowing all the steps of full-stack dev and getting to know myself better<br>
-  🎲 Fun fact: I used to code with Minecraft command blocks</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=furkandlkdr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkandlkdr&theme=tokyonight&layout=compact&hide_border=true" height="150" alt="languages graph" />
+</p>
 
-###
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkandlkdr&label=Profile%20views&color=0e75b6&style=flat" alt="furkandlkdr" /> </p>
-
-###
-
-<h2 align="left">I have been working with</h2>
-
-###
-
-<div align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="c logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="cs logo" />
-  </a>
-  <img width="12" />
-    
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="mssql logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript logo" />
-  </a>
-  <img width="12" />
-    
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://daisyui.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo.svg" width="40" height="40" alt="daisyUI logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3 logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5 logo" />
-  </a>
-  <img width="12" />
-
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="go logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash logo" />
-  </a>
-  <img width="12" />
-  
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git logo" />
-  </a>
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=furkandlkdr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&order=1" height="150" alt="stats graph"  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkandlkdr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+### 🐍 Contribution Activity
 ![Snake Animation](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Snake Animation](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-###
+
+<br />
