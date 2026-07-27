@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Furkan Dulkadir 👋</h1>
+<h1 align="center">Hi there, I'm Furkan 👋</h1>
 
 <p align="center">
   <strong>Software Engineering Graduate | Full-Stack Developer | AI-Augmented Engineer</strong>
