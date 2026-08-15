@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Furkan 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Graduate | Full-Stack Developer | AI-Augmented Engineer</strong>
+  <strong>Graduate Software Engineer | Full-Stack Developer | AI-Augmented Engineer</strong>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ### 🚀 Professional Profile
 
-- 🎓 **Software Engineering Graduate** with a focus on building scalable web ecosystems and robust software architectures.
+- 🎓 **Graduate Software Engineer** with a focus on building scalable web ecosystems and robust software architectures.
 - 🤖 **AI-Driven Workflow:** I actively integrate LLMs and advanced AI tools into my development cycle to accelerate prototyping, ensure code quality, and solve complex architectural challenges.
 - 💼 **Industry Experience:** Proven track record through internships at **Turkcell (GNÇYTNK)** and various professional environments, focusing on modern frontend frameworks and business-driven logic.
 - 🐧 **Linux Power User:** I manage most of my daily workflow and home server infrastructure primarily through **Linux-kernel-based systems**.
