@@ -58,15 +58,9 @@
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkandlkdr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkandlkdr&theme=tokyonight&layout=compact&hide_border=true" height="150" alt="languages graph" />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=furkandlkdr&theme=holi&animation=draw&name=nafair"
+    width="100%"
+  />
 </p>
-
----
-
-### 🐍 Contribution Activity
-![Snake Animation](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake Animation](https://raw.githubusercontent.com/furkandlkdr/furkandlkdr/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<br />
